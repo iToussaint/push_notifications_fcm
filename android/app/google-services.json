@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153668122379",
+    "project_id": "lab6-fcm",
+    "storage_bucket": "lab6-fcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153668122379:android:9191287e51bce93a43140e",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1za3FIExMwK1x0C1vd0kFEu6fGJEJys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
